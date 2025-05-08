@@ -1,1 +1,1 @@
-# FunnyCode
+# FunnyCode - Tập hợp những bài tập về nhà trong chương trình funnycode 
